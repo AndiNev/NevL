@@ -2,26 +2,28 @@
     #Profiles {
         flex-direction: column;
     }
+
     .section-img {
         display: flex;
         justify-content: center;
         width: auto;
     }
+
     .section-right {
         padding-left: 0;
         border-left: none;
         margin: auto;
         width: auto;
     }
+
     .section-left {
         text-align: center;
         margin-bottom: 20px;
         border-left: 0px;
         width: auto;
     }
-    .section-right {
-        
-    }
+
+    .section-right {}
 }
 
 body {
@@ -68,6 +70,7 @@ body {
 .Profiles {
     padding: 20px;
 }
+
 #Profiles {
     width: auto;
     display: flex;
@@ -80,26 +83,36 @@ body {
     margin: 40px;
 }
 
+
+
 .section-img {
     flex: 1;
     border-radius: 50%;
 }
+
 .section-left {
     flex: 2;
     padding-left: 20px;
     border-right: 1px whitesmoke solid;
 }
+
 .section-right {
     flex: 4;
-        padding-left: 20px;
+    padding-left: 20px;
+    margin-top: 25px;
 }
+
 
 
 .table-title {
     font-weight: bold;
     padding-right: 40px;
-    }
+    padding-bottom: 10px;
+}
 
+.table-a{
+    padding-bottom: 10px;
+}
 #kontak {
     background: blue;
     background-color: blue;
@@ -125,7 +138,7 @@ body {
     width: auto;
     padding: 40px;
     border: 2px rgb(202, 202, 202) solid;
-    
+
     background-color: white;
     border-radius: 4px;
     box-shadow: 2px 1px 9px 2px rgba(186, 186, 186, 0.67);
@@ -133,7 +146,7 @@ body {
     -moz-box-shadow: 2px 1px 9px 2px rgba(186, 186, 186, 0.67);
     margin-left: 60px;
     margin-right: 60px;
-    
+
 
 }
 
