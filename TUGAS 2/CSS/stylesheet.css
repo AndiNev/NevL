@@ -3,33 +3,7 @@
         flex-direction: column;
     }
 
-    .section-img {
-        display: flex;
-        justify-content: center;
-        width: auto;
-    }
-
-    .section-right {
-        padding-left: 0;
-        border-left: none;
-        margin: auto;
-        width: auto;
-    }
-
-    .section-left {
-        text-align: center;
-        margin-bottom: 20px;
-        border-left: 0px;
-        width: auto;
-    }
-
-    .section-right {}
 }
-
-body {
-    background-color: whitesmoke;
-}
-
 
 .Header {
     margin-top: -10px;

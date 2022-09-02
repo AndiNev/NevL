@@ -1,5 +1,80 @@
-.navbar{
-    background-image: url(img\Nav_Background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    }
+
+.About {
+    display: flex;
+    width: auto;
+    height: fit-content;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    -webkit-box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    -moz-box-shadow: 24px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    padding: 30px;
+    border-radius: 4px;
+}
+
+
+.Portofolio {
+    display: flex;
+    width: auto;
+    height: fit-content;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    -webkit-box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    -moz-box-shadow: 24px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    padding: 30px;
+    border-radius: 4px;
+}
+
+
+.Blog {
+    display: flex;
+    width: auto;
+    height: fit-content;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    -webkit-box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    -moz-box-shadow: 24px 4px 9px 3px rgba(0, 181, 253, 0.33);
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    padding: 30px;
+    border-radius: 4px;
+}
+
+.Tittle {
+    padding: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(39, 91, 121);
+    text-shadow: 3px 3px 6px rgba(7, 118, 136, 0.6);
+}
+
+#profile-des {
+    padding-left:px;
+    columns:
+}
+#profile-pic {
+    padding-bottom: 10px;
+    
+}
+
+.background {
+    width: auto;
+    height: 100%;
+    opacity: 20%;
+}
+
+
+
+
+.row p{
+    font-style: italic;
+}
