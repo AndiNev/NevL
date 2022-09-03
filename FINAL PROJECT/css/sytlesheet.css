@@ -68,7 +68,7 @@
     -moz-box-shadow: 24px 4px 9px 3px rgba(0, 181, 253, 0.33);
     margin-top: 40px;
     margin-left: 40px;
-    margin-bottom: 30px;
+
     margin-right: 40px;
     padding: 30px;
     border-radius: 4px;
@@ -79,7 +79,7 @@ border-radius: 50%;
 }
 
 
-.Blog {
+.contact {
     display: flex;
     width: auto;
     height: fit-content;
@@ -87,10 +87,6 @@ border-radius: 50%;
     box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
     -webkit-box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
     -moz-box-shadow: 24px 4px 9px 3px rgba(0, 181, 253, 0.33);
-    margin-top: 40px;
-    margin-left: 40px;
-    margin-bottom: 30px;
-    margin-right: 40px;
     padding: 30px;
     border-radius: 4px;
 }
@@ -99,14 +95,13 @@ border-radius: 50%;
     padding: 10px;
     padding-bottom: 20px;
     text-align: center;
-    color: rgb(39, 91, 121);
+    color: rgb(33, 146, 211);
     text-shadow: 3px 3px 6px rgba(7, 118, 136, 0.6);
 }
 
-#profile-des {
-    padding-left:px;
-    columns:
-}
+
+
+
 #profile-pic {
     padding-bottom: 10px;
     
@@ -123,4 +118,22 @@ border-radius: 50%;
 
 .row p{
     font-style: italic;
+}
+
+#sosmed{
+    float: right;
+}
+
+.logo-fot1{
+    padding-top: 25px;
+    float: right;
+}
+.logo-fot2{
+    padding-top: 25px;
+    float: right;
+}
+.logo-fot a{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
 }
