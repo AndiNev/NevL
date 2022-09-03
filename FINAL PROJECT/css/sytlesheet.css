@@ -1,5 +1,5 @@
 
-.About {
+.about {
     display: flex;
     width: auto;
     height: fit-content;
@@ -16,7 +16,7 @@
 }
 
 
-.Portofolio {
+.portfolio {
     display: flex;
     width: auto;
     height: fit-content;
@@ -33,7 +33,7 @@
 }
 
 
-.Blog {
+.blog {
     display: flex;
     width: auto;
     height: fit-content;
@@ -58,7 +58,7 @@
     border-radius: 4px;
 }
 
-.Team {
+.team {
     display: flex;
     width: auto;
     height: fit-content;
@@ -74,7 +74,7 @@
     border-radius: 4px;
 }
 
-.Team img{
+.team img{
 border-radius: 50%;
 }
 
