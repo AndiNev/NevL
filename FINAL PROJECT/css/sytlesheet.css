@@ -1,4 +1,8 @@
 
+html {
+    scroll-behavior: smooth;
+  }
+
 .about {
     display: flex;
     width: auto;
@@ -11,7 +15,7 @@
     margin-left: 40px;
     margin-bottom: 30px;
     margin-right: 40px;
-    padding: 30px;
+    padding: 40px;
     border-radius: 4px;
 }
 .toast-body{
@@ -31,7 +35,7 @@
     margin-left: 40px;
     margin-bottom: 30px;
     margin-right: 40px;
-    padding: 30px;
+    padding: 40px;
     border-radius: 4px;
 }
 
@@ -54,7 +58,7 @@
     margin-left: 40px;
     margin-bottom: 30px;
     margin-right: 40px;
-    padding: 30px;
+    padding: 40px;
     border-radius: 4px;
 
 }
@@ -79,7 +83,7 @@
     margin-top: 40px;
     margin-left: 40px;
     margin-right: 40px;
-    padding: 30px;
+    padding: 40px;
     border-radius: 4px;
 
     
@@ -98,7 +102,7 @@ border-radius: 50%;
     box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
     -webkit-box-shadow: 4px 4px 9px 3px rgba(0, 181, 253, 0.33);
     -moz-box-shadow: 24px 4px 9px 3px rgba(0, 181, 253, 0.33);
-    padding: 30px;
+    padding: 40px;
     border-radius: 4px;
 }
 
